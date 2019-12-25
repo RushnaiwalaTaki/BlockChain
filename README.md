@@ -10,3 +10,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Support for EtherWallet ETH.
 public Key.     "0x42a66F583D8ed4d5bdf81F67D39bED2a769A2c3"
+
+### Version Support
+>=0.4.11 <0.6.0	:Solidity version:
+3.6.9	          :python3 version:
+3.11.2.4	      :etherwallet-version:
+2.1.2	          :Ganache version:
+Postman for request manage.
