@@ -7,3 +7,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Support for EtherWallet ETH.
+public Key.     "0x42a66F583D8ed4d5bdf81F67D39bED2a769A2c3"
