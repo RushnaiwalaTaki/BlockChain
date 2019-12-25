@@ -19,3 +19,6 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
+
+### Support for EtherWallet ETH.
+public Key.     "0x42a66F583D8ed4d5bdf81F67D39bED2a769A2c3"
